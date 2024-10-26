@@ -1,0 +1,13 @@
+1. select * from emp;
+
+2.select ename from emp;
+
+3.select ename ,job from emp;
+
+4.select dept_name from dept;
+
+5. select * from emp;
+
+6. select * from dept;
+
+7.select job as Ejob, comm as commission , ename as name from emp;
